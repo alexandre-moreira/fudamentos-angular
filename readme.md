@@ -11,4 +11,7 @@
     [x] Definindo component
     [x] Anatomia e vantagens de components
     [x] Estilizando um component
+    [x] Criando uma prop
+    
+
     
