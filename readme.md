@@ -9,4 +9,6 @@
 
 ## Aula 02 - Criando Componentes
     [x] Definindo component
-
+    [x] Anatomia e vantagens de components
+    [x] Estilizando um component
+    
