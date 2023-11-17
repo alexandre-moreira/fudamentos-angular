@@ -7,5 +7,6 @@
     [x] Entendendo a DOM
     [x] Consultando o CAN I USE
 
-
+## Aula 02 - Criando Componentes
+    [x] Definindo component
 
