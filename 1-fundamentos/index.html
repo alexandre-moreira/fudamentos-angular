@@ -10,22 +10,25 @@
 </head>
 <body>
     <div class="container">
-        <div class="card">
-            <div class="card__left">
-                <span>By Alexandre Moreira</span>
-                <a href="#">Darth Vader Contrata Devs</a>
-                <p>Darth Vader procura desenvolvedores que saibam trabalhar com web componentes</p>
-            </div>
-            <div class="card__right">
-                <img src="./assets/darth-vader.avif" alt="">
-            </div>
-
+        <div class="header">
+            <img src="./assets/banner.jpeg" alt="">
         </div>
-    </div>
+        <main>
+            <card-news
+            autor="Alexandre Moreira"
+            title="Darth Vader Contrata"
+            link-url="https://www.google.com"
+            photo="./assets/darth-vader.avif"
+            content="Darth Vader procura desenvolvedores que saibam trabalhar com web componentes"
+    ></card-news>
+
     <card-news
-        autor="Alexandre Moreira"
-        title="Darth Vader Contrata"
+        title="Yoda convence repuplica a utilizar Components"
+        link-url="https://www.google.com"
+        photo="./assets/mestre-yoda.jpeg"
         content="Darth Vader procura desenvolvedores que saibam trabalhar com web componentes"
     ></card-news>
+        </main>
+    
 </body>
 </html>
