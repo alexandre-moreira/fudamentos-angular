@@ -12,6 +12,10 @@
     [x] Anatomia e vantagens de components
     [x] Estilizando um component
     [x] Criando uma prop
+    [x] Costruindo um componente de maneira profissional
+    [x] Setando Propriedades de classes
+    [x] Construindo o build do seu component
+    [x] Construindo props do card news
     
 
     
