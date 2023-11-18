@@ -16,6 +16,8 @@
     [x] Setando Propriedades de classes
     [x] Construindo o build do seu component
     [x] Construindo props do card news
+    [x] Pegando props dos sub elementos do componenent
+    [x] Criando estilo do component
     
 
     
